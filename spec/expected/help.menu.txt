@@ -1,5 +1,5 @@
 Precompile handlebar templates.
-Usage: ../../../.nvm/versions/node/v10.19.0/bin/node ./bin/handlebars [template|directory]...
+Usage: handlebars [template|directory]...
 
 Options:
   -f, --output         Output File                                                                                      
@@ -23,3 +23,4 @@ Options:
   -b, --bom            Removes the BOM (Byte Order Mark) from the beginning of the templates.                           
   -v, --version        Prints the current compiler version                                                              
   --help               Outputs this message                                                                             
+
