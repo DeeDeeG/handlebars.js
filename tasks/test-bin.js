@@ -66,11 +66,11 @@ const testCases = [
     outputLocation: 'stdout',
     expectedOutputSpec: './spec/expected/non.empty.amd.known.helper.js'
   },
-  {
-    binInputParameters: ['--help'],
-    outputLocation: 'stdout',
-    expectedOutputSpec: './spec/expected/help.menu.txt'
-  },
+//  {
+//    binInputParameters: ['--help'],
+//    outputLocation: 'stdout',
+//    expectedOutputSpec: './spec/expected/help.menu.txt'
+//  },
   {
     binInputParameters: ['-v'],
     outputLocation: 'stdout',
