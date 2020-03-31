@@ -1,5 +1,5 @@
 Precompile handlebar templates.
-Usage: handlebars [template|directory]...
+Usage: ../../../.nvm/versions/node/v10.19.0/bin/node ./bin/handlebars [template|directory]...
 
 Options:
   -f, --output         Output File                                                                                      
