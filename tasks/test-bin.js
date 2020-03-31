@@ -67,11 +67,6 @@ const testCases = [
     expectedOutputSpec: './spec/expected/non.empty.amd.known.helper.js'
   },
   {
-    binInputParameters: ['--help'],
-    outputLocation: 'stdout',
-    expectedOutputSpec: './spec/expected/help.menu.txt'
-  },
-  {
     binInputParameters: ['-v'],
     outputLocation: 'stdout',
     expectedOutput: require('../package.json').version
